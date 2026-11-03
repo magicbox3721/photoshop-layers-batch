@@ -4,3 +4,9 @@ Batch process frame layers in Photoshop for effortless video editing and animati
 
 [![用photoshop编辑视频时的常见问题](https://youtube.com)](https://youtu.be/qhbBTBd5RWU)
 
+<p align="center">
+  <a href="https://youtu.be">
+    <img src="https://youtube.com" alt="用photoshop编辑视频时的常见问题" width="600">
+  </a>
+</p>
+

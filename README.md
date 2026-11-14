@@ -1,6 +1,6 @@
 # Photoshop-Layers-Batch
 
-Batch-execute custom actions on layers corresponding to video frames to achieve your desired video edits. Compatible with **Adobe Photoshop CC** and later versions.
+Batch-execute custom actions on layers corresponding to video frames to achieve your desired video edits. Compatible with Adobe Photoshop CC and later versions.
 
 对与视频帧相对应的图层批量执行自定义操作，以实现所需的视频编辑。兼容Adobe Photoshop CC及更高版本。
 
@@ -50,7 +50,7 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 
    Photoshop里如何给视频添加声音?
 
-[![Photoshop视频剪辑常见问题](https://youtube.com)](https://youtu.be/qhbBTBd5RWU)
+[![Step-by-Step Tutorial 演示视频](https://youtube.com)](https://youtu.be/qhbBTBd5RWU)
 
 ## Installation / **安装方法**
 

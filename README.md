@@ -8,19 +8,19 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 
 1. **Object Removal:** Batch-remove unwanted objects, blemishes, or watermarks across video frames using Content-Aware Fill or healing actions.
  
-   [![Demo video](https://youtube.com)](https://youtu.be/YKAOMYCoXAY)
+   [![Step-by-Step Tutorial](https://youtube.com)](https://youtu.be/YKAOMYCoXAY)
 
    **对象移除**：使用内容感知填充或修复操作，批量移除视频帧中不需要的对象、瑕疵或水印。
 
-   [![Demo video演示视频：使用对象选择工具去除飞鸟](https://youtube.com)](https://youtu.be/W0Kouaf2zV0)
+   [![演示视频：使用对象选择工具去除飞鸟](https://youtube.com)](https://youtu.be/W0Kouaf2zV0)
  
 3. **Subject Repositioning:** Adjust or stabilize the position of a subject consistently across frame layers.The initial steps can also be used to remove backgrounds when creating GIFs or stickers.
 
-   [![Demo video](https://youtube.com)](https://youtu.be/j4FBlgEiT-8)
+   [![Step-by-Step Tutorial](https://youtube.com)](https://youtu.be/j4FBlgEiT-8)
 
    **主体位置调整**：在各个帧层中统一的调整主体的位置。前半部分步骤也可用于制作表情包时去除背景。
 
-   [![Demo video演示视频：移动视频里的主体位置](https://youtube.com)](https://youtu.be/JudHqakzl7E)
+   [![演示视频：移动视频里的主体位置](https://youtube.com)](https://youtu.be/JudHqakzl7E)
 
 ## Basic Workflow / 基本工作流程
 
@@ -30,19 +30,17 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 
 2. Record the custom **Action** you want to apply in the **Actions** panel.
 
-   在“动作”面板中记录您想要应用的自定义**操作**。
+   在“动作”面板中记录您想要应用的自定义操作。
 
-3. Select the target video frame layers in the **Layers** panel.
+3. Select the target video frame layers in the Layers panel.
 
-   在**图层**面板中选择目标视频帧图层。 
+   在图层面板中选择目标视频帧图层。 
 
 4. Go to **File → Scripts → ^_^Video Frame Batch**, choose your desired action, and run the batch process.
 
    前往**文件 → 脚本 →^_^视频帧批处理**，选择所需操作，然后运行批处理。
 
 ## FAQ / 常见问题
-
-[![Photoshop视频剪辑常见问题](https://youtube.com)](https://youtu.be/qhbBTBd5RWU)
 
 1. What should I do if I cannot use "Video Frame to Layer" when importing a video? 
 
@@ -51,6 +49,8 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 2. How to add sound to a video in Photoshop?
 
    Photoshop里如何给视频添加声音?
+
+[![Photoshop视频剪辑常见问题](https://youtube.com)](https://youtu.be/qhbBTBd5RWU)
 
 ## Installation / **安装方法**
 

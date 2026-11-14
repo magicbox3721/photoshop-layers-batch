@@ -2,17 +2,21 @@
 
 Batch-execute custom actions on layers corresponding to video frames to achieve your desired video edits. Compatible with **Adobe Photoshop CC** and later versions.
 
-对与视频帧相对应的图层批量执行自定义操作，以实现所需的视频编辑。兼容**Adobe Photoshop CC**及更高版本。
+对与视频帧相对应的图层批量执行自定义操作，以实现所需的视频编辑。兼容Adobe Photoshop CC及更高版本。
 
 ## Use Case Examples / **使用方法举例**
 
 1. **Object Removal:** Batch-remove unwanted objects, blemishes, or watermarks across video frames using Content-Aware Fill or healing actions.
+ 
+   [![Demo video](https://youtube.com)](https://youtu.be/YKAOMYCoXAY)
 
    **对象移除**：使用内容感知填充或修复操作，批量移除视频帧中不需要的对象、瑕疵或水印。
 
    [![Demo video演示视频：使用对象选择工具去除飞鸟](https://youtube.com)](https://youtu.be/W0Kouaf2zV0)
  
-2. **Subject Repositioning:** Adjust or stabilize the position of a subject consistently across frame layers.The initial steps can also be used to remove backgrounds when creating GIFs or stickers.
+3. **Subject Repositioning:** Adjust or stabilize the position of a subject consistently across frame layers.The initial steps can also be used to remove backgrounds when creating GIFs or stickers.
+
+   [![Demo video](https://youtube.com)](https://youtu.be/j4FBlgEiT-8)
 
    **主体位置调整**：在各个帧层中统一的调整主体的位置。前半部分步骤也可用于制作表情包时去除背景。
 

@@ -68,22 +68,10 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
      /Applications/Adobe Photoshop [Version]/Presets/Scripts/
      ```
 
-     *Example:*
-
-     ```text
-     /Applications/Adobe Photoshop 2024/Presets/Scripts/
-     ```
-
    * **Windows**
 
      ```text
      \Adobe\Adobe Photoshop [Version]\Presets\Scripts\
-     ```
-
-     *Example:*
-
-     ```text
-     C:\Program Files\Adobe\Adobe Photoshop 2024\Presets\Scripts\
      ```
 
 3. If Photoshop is currently running, **restart** the application to refresh the Scripts menu.

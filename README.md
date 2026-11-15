@@ -58,7 +58,7 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 
    下载脚本文件（视频帧批处理.jsxbin）。
 
-2. Copy the script file into your Photoshop `Scripts` directory:
+2. Copy the script file into your Photoshop Scripts directory:
 
    将脚本文件复制到 Photoshop 的 Scripts 目录：
 
@@ -90,6 +90,6 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 
    如果 Photoshop 正在运行，请重新启动以刷新脚本菜单。
 
-4. Once launched, navigate to **File → Scripts → [Script Name]** in the top menu bar to run the script.
+4. Once launched, navigate to **File → Scripts → [^_^Video Frame Batch]** in the top menu bar to run the script.
 
-   启动后，在菜单中选择「文件 → 脚本 → 脚本名称」运行。
+   启动后，在菜单中选择「文件 → 脚本 → ^_^视频帧批处理」运行。

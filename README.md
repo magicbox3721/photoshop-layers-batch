@@ -54,9 +54,9 @@ Batch-execute custom actions on layers corresponding to video frames to achieve 
 
 ## Installation / **安装方法**
 
-1. Download the script file (`.jsxbin`).
+1. Download the script file (`Video Frame Batch.jsxbin`).
 
-   下载脚本文件（.jsxbin）。
+   下载脚本文件（视频帧批处理.jsxbin）。
 
 2. Copy the script file into your Photoshop `Scripts` directory:
 
